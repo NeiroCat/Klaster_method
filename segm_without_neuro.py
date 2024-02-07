@@ -23,7 +23,7 @@ contrast_up = False
 NN_value = False
 gistogramm = True
 
-directory = '2023rats/4G_25_10/4G_rat1/4G_rat1_3week_15_11/' #ЗАМЕНИТЬ НАЗВАНИЕ ПАПКИ ДЛЯ НОВОГО ЭКСПЕРИМЕНТА
+directory = 'test_data/' #ЗАМЕНИТЬ НАЗВАНИЕ ПАПКИ ДЛЯ НОВОГО ЭКСПЕРИМЕНТА
 output_path = '2023rats/jpg/4G_25_10/4G_rat1/4G_rat1_3week_15_11/'
 gistogramm_name = '4G_rat1_3week_15_11'
 area = False
